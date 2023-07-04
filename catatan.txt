@@ -1,0 +1,21 @@
+npmjs.com/package/express
+https://www.npmjs.com/package/mongoose
+express-unlesss utk middleware
+bcrypt.js utk enkrip password
+mogoose validator: utk validasi akun (username password)
+
+//URUTAN KODING
+1. iNSTALL PACKAGESNYA DULU
+2.coding config/ db.config.js nya dulu
+3. index.js
+4. folder middlewares
+5. folder controllers (utk enkrip)
+6. folder routes
+7. folder models
+8. folder services
+
+running dengan nodemon index
+
+ganti versi express-unlesss menjadi ^1.0.3
+npm uninstall express-unless --save-dev
+ npm install express-unless ^1.0.3 --save-dev
